@@ -1,0 +1,21 @@
+.imagen {
+    width: 200px;
+    border-radius: 50px;
+}
+
+.screen {
+    width: 400px;
+}
+
+.inpro {
+    width: 100px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    width: 800px;
+}
+
+* {
+    font-family:   tahoma
+}
